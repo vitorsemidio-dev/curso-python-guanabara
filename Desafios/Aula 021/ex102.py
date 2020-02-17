@@ -1,15 +1,3 @@
-"""
-102
-fatorial (num, show = False)
-
-	Documentação
-se show
-	print n * (n-1) * ... * 1 = fatorial num
-senão
-	return fatorial num
-
-"""
-
 def fatorial (num, show=False):
     if show:
         if num == 1:

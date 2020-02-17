@@ -1,10 +1,3 @@
-"""
-079
-Crie um programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista.
-Caso o número já existe lá dentro, ele não será adicionado.
-No f inal, serão exibidos todos o valores únicos digitados em ordem crescente
-"""
-
 from random import randint
 
 qtd = randint(5, 20)

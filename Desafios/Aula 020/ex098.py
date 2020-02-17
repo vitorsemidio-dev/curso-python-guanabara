@@ -1,12 +1,3 @@
-"""
-098
-Faça um programa que tenha uma função chamada contador(),
-que receba três parâmetros: inicio, fim e passo e realiza a contagem
-Seu programa tem que realizar três contagens através da função criada:
-a) de um até dez, de um em um
-b) de dez até zero, de dois em dois
-c) uma contagem personalizada
-"""
 from time import sleep
 from random import randint
 

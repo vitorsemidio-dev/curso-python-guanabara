@@ -1,10 +1,3 @@
-"""
-087
-Aprimore o desafio anterior, mostrando no final:
-a) a soma de todos os valores pares digitados.
-b) a soma dos valores da terceira coluna.
-c) o maior valor da segunda linha.
-"""
 from random import randint
 dimensao = int(input("Digite a dimensão da matriz: "))
 #dimensao = randint(2,10)

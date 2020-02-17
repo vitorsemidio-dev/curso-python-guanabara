@@ -1,8 +1,3 @@
-"""
-101
-função voto(ano nascimento)
-return negado ? opcional ? obrigatorio
-"""
 from datetime import date
 from random import randint
 

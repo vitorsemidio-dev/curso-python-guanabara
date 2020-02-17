@@ -1,10 +1,3 @@
-"""
-103
-fichar (nome, gol)
-return O jogador nome fez gol gols no campeonato
-"""
-
-
 def ficha (name='Te conheço?', gols=0):
     print(f"O jogador {name} marcou {gols} gols")
 

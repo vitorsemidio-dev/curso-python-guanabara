@@ -1,9 +1,3 @@
-"""
-082
-Crie um programa que vai ler vários números e colocar em uma lista.
-Depois disse, crie duas listas extras que vão conter apenas os valores pares e os valores impares digitados, respectivamente.
-Ao final, mostre o conteúdo das três listas geradas.
-"""
 from random import randint
 qtd = randint(10,40)
 numeros = []

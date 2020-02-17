@@ -1,8 +1,3 @@
-"""
-096
-Faça um program que tenha uma função chamada área(), que recebe as
-dimensões de um terreno retangular e mostre a área do terreno.
-"""
 from random import randint
 def calcularArea(altura, largura):
     return altura * largura

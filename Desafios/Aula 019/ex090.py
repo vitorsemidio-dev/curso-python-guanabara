@@ -1,8 +1,3 @@
-"""
-090
-Faça um programa que leia nome e média de um ano, guardando também a situação em um dicionário.
-No final, mostre o conteúdo da estrturua na tela
-"""
 import random
 
 alunos = ["Eren", "Mikasa", "Armin", "Levi", "Erwin", "Zeke",

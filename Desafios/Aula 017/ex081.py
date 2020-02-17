@@ -1,12 +1,3 @@
-"""
-081
-Crie um programa que vai ler vários números e colocar em uma lista.
-Depois disso, mostre:
-a) quantos números foram digitados.
-b) a lista de valores, ordenada de forma decrescente.
-c) se o valor cinco foi digitado e está ou não na lista.
-"""
-
 from random import randint
 
 qtd = randint(5,20)
