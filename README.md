@@ -93,6 +93,62 @@
 
 [035] Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo
 
+> **[EXTRA] Refaça todos os exercícios utilizando cores no terminal**
+
+## Cores no Terminal
+
+### Estrutura
+
+> **\033[estiloTexto:corTexto:corFundo\033[m**
+
+Abaixo estão os valores aceitáveis:
+
+### Estilo do Texto
+
+  ```python
+  style = {
+    "fecha":"\033[m",
+    "none":"\033[0",
+    "negrito":"\033[1",
+    "italico":"\033[4",
+    "invertido":"\033[7",
+  }
+  ```
+
+### Cor do Texto
+
+  ```python
+  text = {
+    "fecha":"\033[m",
+    "branco":"\033[30m",
+    "vermelho":"\033[31m",
+    "verde":"\033[32m",
+    "amarelo":"\033[33m",
+    "azul":"\033[34m",
+    "roxo": "\033[35m",
+    "ciano": "\033[36m",
+    "cinza": "\033[37m",
+  }
+  ```
+
+### Cor de Fundo do Texto
+
+  ```python
+  back = {
+    "fecha":"\033[m",
+    "branco":"\033[40m",
+    "vermelho":"\033[41m",
+    "verde":"\033[42m",
+    "amarelo":"\033[43m",
+    "azul":"\033[44m",
+    "roxo": "\033[45m",
+    "ciano": "\033[46m",
+    "cinza": "\033[47m",
+  }
+
+  ```
+
+
 [036] Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele irá pagar. Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do salário ou então o empréstimo será negado.
 
 
@@ -161,57 +217,3 @@
 
 [045] Crie um programa que faça o computador jogar Jokenpô com vc
 
-> **[EXTRA] Refaça todos os exercícios utilizando cores no terminal**
-
-## Cores no Terminal
-
-### Estrutura
-
-> **\033[estiloTexto:corTexto:corFundo\033[m**
-
-Abaixo estão os valores aceitáveis:
-
-### Estilo do Texto
-
-  ```python
-  style = {
-    "fecha":"\033[m",
-    "none":"\033[0",
-    "negrito":"\033[1",
-    "italico":"\033[4",
-    "invertido":"\033[7",
-  }
-  ```
-
-### Cor do Texto
-
-  ```python
-  text = {
-    "fecha":"\033[m",
-    "branco":"\033[30m",
-    "vermelho":"\033[31m",
-    "verde":"\033[32m",
-    "amarelo":"\033[33m",
-    "azul":"\033[34m",
-    "roxo": "\033[35m",
-    "ciano": "\033[36m",
-    "cinza": "\033[37m",
-  }
-  ```
-
-### Cor de Fundo do Texto
-
-  ```python
-  back = {
-    "fecha":"\033[m",
-    "branco":"\033[40m",
-    "vermelho":"\033[41m",
-    "verde":"\033[42m",
-    "amarelo":"\033[43m",
-    "azul":"\033[44m",
-    "roxo": "\033[45m",
-    "ciano": "\033[46m",
-    "cinza": "\033[47m",
-  }
-
-  ```
