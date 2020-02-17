@@ -148,6 +148,7 @@ Abaixo estão os valores aceitáveis:
 
   ```
 
+## Lista dos desafios do Mundo 2
 
 [036] Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele irá pagar. Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do salário ou então o empréstimo será negado.
 
@@ -217,3 +218,92 @@ Abaixo estão os valores aceitáveis:
 
 [045] Crie um programa que faça o computador jogar Jokenpô com vc
 
+
+[046] Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artificio. Indo de 10 ateh 0, com uma pausa de 1 segundo entre elas.
+
+[047] Crie um programa que mostre na tela todos os numeros pares entre 1 e 50
+
+[048] Faça um programa que calcule a soma entre todos os numeros impares que sao multiplos de três entre 1 e 500
+
+
+[049] Refaça o desafio 009,
+
+
+[050] Desenvolva um programa que leia seis numeros inteiros e mostre a soma apenas daqueles que forem pares
+
+[051] Desenvolva um programa que leia o primeiro termo e a razão de uma Pa. No final mostre os dez primeiros termos dessa progressao
+
+[052] Faça um programa que leia um numero inteiro e diga se ele é ou não primo.
+
+[053] Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços. Exemplo
+
+  * apos a sopa
+  * a sacada da casa
+  * a torre da derrota
+  * o lobo ama o bolo
+  * anotaram a data da maratona
+
+
+[054] Crie um programa que leia o ano de nascimento de ste pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantos já são maiores. Considere maioridade = 21 anos
+
+[055] Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor dos pesos lidos
+
+
+[056] Desenvolva um programa que leia o nome, idade e sexo de quatro pessoas. No final do programa, mostre:
+
+  * A media de idade do grupo
+  * Qual o nome do homem mais velho.
+  * Quantas mulheres tês menos de 20 anos
+
+
+[057] Faça um programa que leia o sexo de uma pessoa, mas só aceite os valores "m" ou "f". Caso esteja errado, peça a digitação novamente até ter um valor correto.
+
+[058] Melhore o jogo do desafio 028 onde o jogador vai pensar em um numero entre 0 e 10 Só que agora o jogador vai tentar adivinhar até acertar, mostrando no final quantos palpites foram necessários para vencer.
+
+[059] Crie um programa que leia dois valores e mostre um menu na tela:
+
+  * Somar
+  * Multiplicar
+  * Maior
+  * Novos numeros
+  * Sair do programa
+  * Seu programa deverá realizar a operação solicitada em cada caso.
+
+[060] Faça um programa que calcule o fatorial de um numero
+
+[061] Refaça o Desafio 051, lendo o primeiro termo e a razão de uma PA, mostrando os dez primeiros termos da PA usando while
+
+[062] Melhore o desafio 061, perguntando para o usuário se ele quer mostrar mais quantos termos. O programa encerra quando ele disser que quer mostrar 0 termos.
+
+[063] Ler n e mostrar os n primeiros termos da Sequencia de Fibonacci.
+
+[064] Crie um progra que leia vários numeros inteiros pelo teclado. O programa só vai parar quando o usuário digitar o valor 999. No final, mostre quantos numeros foram digitados e qual foi a soma entre eles (desocnsiderando 999)
+
+
+[065] Crie um programa que leia vários numeros inteiros pelo teclado. No final da execução, mostre a média entre todos os valores e qual foi o maior e o menor valores lidos. O programa deve perguntar ao usuário se ele quer ou não continuar a digitar valores.
+
+[066] Crie um progra que leia vários numeros inteiros pelo teclado. O programa só vai parar quando o usuário digitar o valor 999. No final, mostre quantos numeros foram digitados e qual foi a soma entre eles (desocnsiderando 999)
+
+[067] Faça um programa que mostre a tabuada de vários numeroes, um de cada vez, para cada valor digitado O programa será interrompido quando o número solicitado for negativo.
+
+[068] Faça um programa que jogue par ou impar com o PC. O jogo só será interrompido quando o jogador perder, mostrando o total de vitorias consecutivas.
+
+[069] Crie um programa que leia a idade e sexo de várias pessoas. A cada pessoa cadastrada, o programa deverá perguntar se o usuário qr continuar ou não. No final, mostre:
+
+  ```
+  a) quantas pessoas têm mais de dezoito anos.
+  b) quantos homens focam cadastrados.
+  c) quantas mulheres têm menso de 20 anos
+  ```
+
+
+[070] Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai continuar. No final, mostre:
+
+  ```
+  a) qual é o total gasto na compra.
+  b) quantos produtos custam mais de mil reais
+  c) qual é o nome do produto mais barato.
+  ```
+
+
+[071] Crie um programa que simule o funcionamento de um caixa eletrônico. no início, pergunte ao usuário qual será o valor a ser sacado e o rpgrama vai informar quantas cédulas de cada valor serão entregues. *obs: considere que o caixa possua cédulas de 50 20 10 e 1*.
