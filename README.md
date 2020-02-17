@@ -307,3 +307,32 @@ Abaixo estão os valores aceitáveis:
 
 
 [071] Crie um programa que simule o funcionamento de um caixa eletrônico. no início, pergunte ao usuário qual será o valor a ser sacado e o rpgrama vai informar quantas cédulas de cada valor serão entregues. *obs: considere que o caixa possua cédulas de 50 20 10 e 1*.
+
+
+[072] Crie um programa que tenha uma tupla totalmente preenchida com uma contagem por extenso, de zero até vinte. Seu programa deverá ler um número pelo teclado entre 0 e 20 e mostrá-lo por extenso.
+
+
+[073] Crie uma  tupla preenchida com os 20 primeiros colocados da Tabela do Campeonato Brasileiro de Futebol, na ordem de colocação. Depois mostre:
+
+  ```
+  a) apenas os 5 primeiros colocados.
+  b) os últimos 4 colocados
+  c) Uma lista com os times em ordem alfabética.
+  d) Em que posição na tabela está o time da Chapecoense.
+  ```
+
+
+[074] Crie um programa que vai gerar cinco numeros aleatórios e colocar em uma tupla. Depois disso, mostre a listagem de números gerados e também indique o menor e o maior valor que estão na tupla.
+
+
+[075] Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla. No final, mostre:
+
+  ```
+  a) quantas vezes apareceu o valor nove.
+  b) em que posição foi digitado o primeiro valor 3.
+  c) quais foram os números pares
+  ```
+
+
+[077] Crie um programa que tenha uma tupla com várias palavras. Depois disso, você deve mostrar, para cada palavra, quais são suas vogais.
+
